@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    background-color:whitesmoke;
+}
+#title{
+    font-family: cursive;
+}
+.header{
+    background-color: RGB(161, 237, 211);
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+#image
+{
+    display: block;
+    height: auto;
+    margin: 20px auto;
+    max-width: 50%;
+    
+}
+#img-caption
+{
+    text-align: center;
+}
+#tribute-info{
+    text-align: center;
+}
+
+.timeline
+{
+    font-size: large;
+    background-color: bisque;
+    padding: 10%;
+    max-width: 80%;
+    width: 600px;
+    margin: 20px auto;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.finish
+{
+    padding: 2%;
+    background-color: coral;
+    font-size: 20px;
+    text-decoration: solid;
+    text-align: justify;
+}
+
+#tribute-link{
+    text-align: center;
+    margin: 50px auto;
+}
